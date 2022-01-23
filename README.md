@@ -1,2 +1,8 @@
-# importsV4-ES6
-Práctica 8 - Imports con ES6
+# imports
+Práctica 8 - Trabajando con imports
+
+v1: Importando los scripts como listado en el index.html
+v2: Aplicando funciones autoinvocadas
+v3: Usando módulos de CommonJS
+v4: Usando sistema de módulos de ES6
+
